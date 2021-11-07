@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUD using Room</string>
+    <string name="crud_app">CRUD App</string>
+</resources>
